@@ -45,8 +45,21 @@
 </div>
 
 <section >
-	<div class="tovar1">
-		<img src="img/asics.png" alt="" style="width: 450px"  >
+	
+<div class="tovar1">
+	<img src="img/asics.png" alt="" style="width: 450px"  >
+
+
+	<div class="button">
+
+<a href="/korzina">
+	<button name="Добавить в корзину" value="N">
+
+	<img style= src="http://.../icon.png" alt="" />
+	Добавить в корзину
+	</button>
+</a>
+
 	<p> ASICS Gel-Kayano </p>
 
 <a class="txt1">

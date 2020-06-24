@@ -48,6 +48,16 @@
 		<img src="img/hhkurtka.png" alt="" style="width: 450px" >
 		<p>Helly Hansen YU20 Rain </p>
 
+		<div class="button">
+
+<a href="/korzina">
+	<button name="Добавить в корзину" value="N">
+
+	<img style= src="http://.../icon.png" alt="" />
+	Добавить в корзину
+	</button>
+</a>
+
 	<a class="txt1">
  Описание:<br> Ориентированный на морские и экстремальные виды спорта норвежский outdoor бренд, fdfdfdfdfdffddfdfsfdf полюбившийся жителям современных мегаполисов.
 	</a>

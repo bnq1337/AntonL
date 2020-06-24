@@ -13,7 +13,7 @@ class ApiController extends Controller
 
   public function airzoomAction()
   {
-  	 return view ('airzoom');
+  	 return view ('airzoom' ,['airzoom' => (new ArticleController())->show()]);
   } 
 
    public function akkauntAction()
